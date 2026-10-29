@@ -1,2 +1,2 @@
 # curso_sismetro
-aprendenndo aprogramar
+repositorio de aulas do curso
